@@ -84,7 +84,6 @@ buttonRight.classList.add('block__button');
 
 divRight.append(buttonRight);
 
-
 // Оформление стилями
 
 style.innerHTML = `
